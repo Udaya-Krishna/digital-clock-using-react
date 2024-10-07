@@ -1,0 +1,20 @@
+body{
+    background-image: url(assets/Sunrise.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40vh;
+    margin-bottom: 40vh;
+}
+.clock{
+    color: rgb(87, 70, 24);
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    text-shadow: 3px 3px 5px hsla(0, 0, 0.75);
+}
